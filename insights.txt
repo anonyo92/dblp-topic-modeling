@@ -1,0 +1,9 @@
+1) Vision and ML research has risen drastically since after 2015
+2) Network research started rising drastically after around 2005
+3) Algorithm is the most researched area, followed by networks (represented in word cloud as well)
+4) Number of first author paper in software and social is more than the other areas
+5) In last 5 years, networks is the most researched area, followed by algorithms and computer vision
+6) In co-occurence matrix: (Neural and network), (wireless and network), (control and system), (system and analysis), (data and analysis)
+   (learning and network - probably from neural network) keyword occurences
+   
+7) Research on "data" (from keyword timeline) has increased gradually
